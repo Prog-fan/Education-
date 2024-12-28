@@ -1,0 +1,10 @@
+D:\Projects\EP.01\Railroad_ticket\bin\Debug\Railroad_ticket.exe.config
+D:\Projects\EP.01\Railroad_ticket\bin\Debug\Railroad_ticket.exe
+D:\Projects\EP.01\Railroad_ticket\bin\Debug\Railroad_ticket.pdb
+D:\Projects\EP.01\Railroad_ticket\obj\Debug\Railroad_ticket.csproj.AssemblyReference.cache
+D:\Projects\EP.01\Railroad_ticket\obj\Debug\Railroad_ticket.Form1.resources
+D:\Projects\EP.01\Railroad_ticket\obj\Debug\Railroad_ticket.Properties.Resources.resources
+D:\Projects\EP.01\Railroad_ticket\obj\Debug\Railroad_ticket.csproj.GenerateResource.cache
+D:\Projects\EP.01\Railroad_ticket\obj\Debug\Railroad_ticket.csproj.CoreCompileInputs.cache
+D:\Projects\EP.01\Railroad_ticket\obj\Debug\Railroad_ticket.exe
+D:\Projects\EP.01\Railroad_ticket\obj\Debug\Railroad_ticket.pdb
