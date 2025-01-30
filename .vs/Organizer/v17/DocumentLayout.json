@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\DPM\\Organizer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|d:\\projects\\dpm\\organizer\\organizerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|solutionrelative:organizerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|D:\\Projects\\DPM\\Organizer\\addeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|solutionrelative:addeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|D:\\Projects\\DPM\\Organizer\\organizerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|solutionrelative:organizerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|D:\\Projects\\DPM\\Organizer\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|solutionrelative:authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|D:\\Projects\\DPM\\Organizer\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|D:\\Projects\\DPM\\Organizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|D:\\Projects\\DPM\\Organizer\\logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|solutionrelative:logic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|D:\\Projects\\DPM\\Organizer\\addeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|solutionrelative:addeventform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|D:\\Projects\\DPM\\Organizer\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|D:\\Projects\\DPM\\Organizer\\authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|solutionrelative:authorizationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|D:\\Projects\\DPM\\Organizer\\registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F53B7F-0FFB-4DC5-877C-B51C125B80B3}|Organizer.csproj|solutionrelative:registrationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 265,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEventForm.cs",
+              "DocumentMoniker": "D:\\Projects\\DPM\\Organizer\\AddEventForm.cs",
+              "RelativeDocumentMoniker": "AddEventForm.cs",
+              "ToolTip": "D:\\Projects\\DPM\\Organizer\\AddEventForm.cs",
+              "RelativeToolTip": "AddEventForm.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAADAAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2021-04-07T18:25:51.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\DPM\\Organizer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\DPM\\Organizer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T08:16:57.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Logic.cs",
+              "DocumentMoniker": "D:\\Projects\\DPM\\Organizer\\Logic.cs",
+              "RelativeDocumentMoniker": "Logic.cs",
+              "ToolTip": "D:\\Projects\\DPM\\Organizer\\Logic.cs",
+              "RelativeToolTip": "Logic.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2021-11-09T08:09:35.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrganizerForm.cs",
+              "DocumentMoniker": "D:\\Projects\\DPM\\Organizer\\OrganizerForm.cs",
+              "RelativeDocumentMoniker": "OrganizerForm.cs",
+              "ToolTip": "D:\\Projects\\DPM\\Organizer\\OrganizerForm.cs",
+              "RelativeToolTip": "OrganizerForm.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2021-08-23T17:30:09.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegistrationForm.Designer.cs",
+              "DocumentMoniker": "D:\\Projects\\DPM\\Organizer\\RegistrationForm.Designer.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.Designer.cs",
+              "ToolTip": "D:\\Projects\\DPM\\Organizer\\RegistrationForm.Designer.cs",
+              "RelativeToolTip": "RegistrationForm.Designer.cs",
+              "ViewState": "AgIAAKAAAAAAAAAAAAD4v74AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T07:38:09.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "D:\\Projects\\DPM\\Organizer\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "D:\\Projects\\DPM\\Organizer\\RegistrationForm.cs",
+              "RelativeToolTip": "RegistrationForm.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2021-05-03T15:15:24.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrganizerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Projects\\DPM\\Organizer\\OrganizerForm.cs",
+              "RelativeDocumentMoniker": "OrganizerForm.cs",
+              "ToolTip": "D:\\Projects\\DPM\\Organizer\\OrganizerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "OrganizerForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-01-25T22:49:01.477Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddEventForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Projects\\DPM\\Organizer\\AddEventForm.cs",
+              "RelativeDocumentMoniker": "AddEventForm.cs",
+              "ToolTip": "D:\\Projects\\DPM\\Organizer\\AddEventForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AddEventForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-06-30T04:07:53.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Projects\\DPM\\Organizer\\AuthorizationForm.cs",
+              "RelativeDocumentMoniker": "AuthorizationForm.cs",
+              "ToolTip": "D:\\Projects\\DPM\\Organizer\\AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "AuthorizationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:05:53.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\Projects\\DPM\\Organizer\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "D:\\Projects\\DPM\\Organizer\\RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "RegistrationForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-09T02:06:53.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizationForm.cs",
+              "DocumentMoniker": "D:\\Projects\\DPM\\Organizer\\AuthorizationForm.cs",
+              "RelativeDocumentMoniker": "AuthorizationForm.cs",
+              "ToolTip": "D:\\Projects\\DPM\\Organizer\\AuthorizationForm.cs",
+              "RelativeToolTip": "AuthorizationForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2021-05-29T12:04:58.219Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
