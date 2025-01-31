@@ -1,0 +1,10 @@
+D:\Projects\EP.01\Registration\bin\Debug\Registration.exe.config
+D:\Projects\EP.01\Registration\bin\Debug\Registration.exe
+D:\Projects\EP.01\Registration\bin\Debug\Registration.pdb
+D:\Projects\EP.01\Registration\obj\Debug\Registration.csproj.AssemblyReference.cache
+D:\Projects\EP.01\Registration\obj\Debug\Registration.Form1.resources
+D:\Projects\EP.01\Registration\obj\Debug\Registration.Properties.Resources.resources
+D:\Projects\EP.01\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+D:\Projects\EP.01\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+D:\Projects\EP.01\Registration\obj\Debug\Registration.exe
+D:\Projects\EP.01\Registration\obj\Debug\Registration.pdb

@@ -1,0 +1,10 @@
+D:\Projects\EP.01\Online_clothing_store\obj\Debug\Online_clothing_store.csproj.AssemblyReference.cache
+D:\Projects\EP.01\Online_clothing_store\obj\Debug\Online_clothing_store.Form1.resources
+D:\Projects\EP.01\Online_clothing_store\obj\Debug\Online_clothing_store.csproj.GenerateResource.cache
+D:\Projects\EP.01\Online_clothing_store\bin\Debug\Online_clothing_store.exe.config
+D:\Projects\EP.01\Online_clothing_store\bin\Debug\Online_clothing_store.exe
+D:\Projects\EP.01\Online_clothing_store\bin\Debug\Online_clothing_store.pdb
+D:\Projects\EP.01\Online_clothing_store\obj\Debug\Online_clothing_store.Properties.Resources.resources
+D:\Projects\EP.01\Online_clothing_store\obj\Debug\Online_clothing_store.csproj.CoreCompileInputs.cache
+D:\Projects\EP.01\Online_clothing_store\obj\Debug\Online_clothing_store.exe
+D:\Projects\EP.01\Online_clothing_store\obj\Debug\Online_clothing_store.pdb
